@@ -24,7 +24,7 @@ body{
     height: 80px;
     background-color: #161621;
     z-index: 10;
-    transition: top 0.3s ease-in-out;
+    transition: top 1s ease-in-out;
 }
 
 #topnav img {
@@ -254,6 +254,7 @@ img.portfolio {
     width: 70%;
     max-width: 550px;
     margin-top: 30px;   
+    border-radius: 10px;
 }
 
 .card-container{
@@ -450,6 +451,7 @@ footer{
 .col-portfolio img {
     width: 300px;
     height: 250px;
+    border-radius: 7px;
 }
 
 
